@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports and sports technology
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on small scale React apps
-- 📫 How to reach me: Twitter @Chris_Morgan_55 
+- 📫 How to reach me: Twitter @Chris_GuyM
 
 <!---
 ChrisGuy/ChrisGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
